@@ -90,3 +90,37 @@ code {
 img {
   width: 100%;
 }
+
+.javascript-img img {
+  width: 20%;
+}
+
+.brendan-eich-img, .jquery-logo-img {
+  display: flex;
+  justify-content: center;
+}
+
+.brendan-eich-img img {
+  width: 50%;
+}
+
+.jquery-logo-img img {
+  height: 15vh;
+  width: auto;
+}
+
+.spa-logos-img p, .spa2-logos-img p {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: nowrap;
+}
+
+.spa-logos-img img {
+  width: 30%;
+}
+
+.spa2-logos-img img {
+  height: 20vh;
+  width: auto;
+}

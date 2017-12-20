@@ -7,28 +7,186 @@ class: center, middle, inverse
 # {{{ title }}}
 ## {{{ subtitle }}}
 
+.javascript-img[![Javascript logo](./assets/img/javascript_logo.png)]
+
 #### {{{ link }}}
 
 ---
 layout: false
 
 .left-column[
-## Bullet point
+## µ-historique
+]
+
+---
+count: false
+
+.left-column[
+## µ-historique
 ]
 
 .right-column[
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+- 1995 : Création du Javascript par Brendan Eich, en 10 jours de travail
 
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+.brendan-eich-img[![Brendan Eich](./assets/img/brendan_eich.jpg)]
 ]
+
+---
+count: false
+
+.left-column[
+## µ-historique
+]
+
+.right-column[
+- 1995 : Création du Javascript par Brendan Eich, en 10 jours de travail
+]
+
+.right-column-no-padding[
+- Jusqu'en 1999 : Évolutions du standard ECMA-Script
+]
+
+---
+count: false
+
+.left-column[
+## µ-historique
+]
+
+.right-column[
+- 1995 : Création du Javascript par Brendan Eich, en 10 jours de travail
+]
+
+.right-column-no-padding[
+- Jusqu'en 1999 : Évolutions du standard ECMA-Script
+]
+
+.right-column-no-padding[
+- Point mort pendant 10 ans, ECMAScript 5 sort en 2009
+]
+
+???
+
+ES5 était la version standard du Javascript pendant trèèèès longtemps (jusqu'en 2015), car pas de nouvelles fonctionnalités et le seul qu'IE supportait.
+C'est d'ailleurs toujours la cible lors de la transpilation du code ES6+ pour être compris par tous les navigateurs.
+
+---
+count: false
+
+.left-column[
+## µ-historique
+]
+
+.right-column[
+- 1995 : Création du Javascript par Brendan Eich, en 10 jours de travail
+]
+
+.right-column-no-padding[
+- Jusqu'en 1999 : Évolutions du standard ECMA-Script
+]
+
+.right-column-no-padding[
+- Point mort pendant 10 ans, ECMAScript 5 sort en 2009
+]
+
+.right-column-no-padding[
+- Développement de quelques interactions sur la page
+- Apparition de jQuery
+- AJAX, pages sans rechargement
+
+.jquery-logo-img[![jQuery logo](./assets/img/jquery_logo.png)]
+]
+
+
+---
+count: false
+
+.left-column[
+## µ-historique
+]
+
+.right-column[
+- 1995 : Création du Javascript par Brendan Eich, en 10 jours de travail
+]
+
+.right-column-no-padding[
+- Jusqu'en 1999 : Évolutions du standard ECMA-Script
+]
+
+.right-column-no-padding[
+- Point mort pendant 10 ans, ECMAScript 5 sort en 2009
+]
+
+.right-column-no-padding[
+- Développement de quelques interactions sur la page
+- Apparition de jQuery
+- AJAX, pages sans rechargement
+]
+
+.right-column-no-padding[
+- 2011 : Nouvelle croissance du JS, avec des frameworks SPA
+
+.spa-logos-img[
+  ![Backbone.js](./assets/img/backbone_logo.png)
+  ![AngularJS](./assets/img/angularjs_logo.png)
+  ![Ember.js](./assets/img/ember_logo.png)
+]
+]
+
+???
+
+Backbone.js en 2010, AngularJS en 2010, Ember.js en 2011
+C'est AngularJS qui rafle la mise
+
+---
+count: false
+
+.left-column[
+## µ-historique
+]
+
+.right-column[
+- 1995 : Création du Javascript par Brendan Eich, en 10 jours de travail
+]
+
+.right-column-no-padding[
+- Jusqu'en 1999 : Évolutions du standard ECMA-Script
+]
+
+.right-column-no-padding[
+- Point mort pendant 10 ans, ECMAScript 5 sort en 2009
+]
+
+.right-column-no-padding[
+- Développement de quelques interactions sur la page
+- Apparition de jQuery
+- AJAX, pages sans rechargement
+]
+
+.right-column-no-padding[
+- 2011 : Nouvelle croissance du JS, avec des frameworks SPA
+]
+
+.right-column-no-padding[
+- 2013 : Envolée fulgurante et durable du JS
+- 2015 : NodeJS 4
+- Explosion de l'écosystème
+.spa2-logos-img[
+![React logo](./assets/img/react_logo.png)
+![Angular logo](./assets/img/angular_logo.png)
+![Vue logo](./assets/img/vue_logo.png)
+]
+]
+
+???
+
+Angular 2 en 2016, React en 2013, Vue en 2014
+
+
+???
+
+Croissance phénoménale et fulgurante, l'écosystème s'est énormément complexifié (parfois en réinventant la roue), pour répondre à des problèmes beaucoup plus grands. Le JS n'est plus considéré comme un langage de seconde zone, et dispose de tout le tooling et de la qualité de code qu'on peut rechercher dans les "vrais" langages (Java par exemple).
+
 
 ---
 template: inverse
@@ -36,3 +194,16 @@ template: inverse
 # The end
 
 ### {{{ link }}}
+
+---
+
+.left-column[
+## Sources
+]
+
+.right-column[
+- Wikipédia [Javascript](https://en.wikipedia.org/wiki/JavaScript), [Brendan Eich](https://en.wikipedia.org/wiki/Brendan_Eich), [ECMAScript](https://en.wikipedia.org/wiki/ECMAScript), [jQuery](https://en.wikipedia.org/wiki/JQuery), [Backbone.js](https://en.wikipedia.org/wiki/Backbone.js), [Ember.js](https://en.wikipedia.org/wiki/Ember.js), [AngularJS](https://en.wikipedia.org/wiki/AngularJS), [React][React], [Node.js](https://en.wikipedia.org/wiki/Node.js), [Angular][Angular], [Vue.js](https://en.wikipedia.org/wiki/Vue.js)
+]
+
+[React]: https://en.wikipedia.org/wiki/React_(JavaScript_library)
+[Angular]: https://en.wikipedia.org/wiki/Angular_(application_platform)
