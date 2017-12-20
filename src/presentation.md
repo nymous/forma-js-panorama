@@ -299,7 +299,82 @@ count: false
 .left-column[
 ## µ-historique
 ## Évolution fulgurante
-## Le futur ?
+## Plus que le frontend
+]
+
+---
+count: false
+
+.left-column[
+## µ-historique
+## Évolution fulgurante
+## Plus que le frontend
+]
+
+.right-column[
+- Applications desktop avec Electron
+
+.electron-img[
+  ![Electron logo](./assets/img/electron-logo.svg)
+
+  .logos[
+    ![Atom logo](./assets/img/atom-logo.jpg)
+    ![Discord logo](./assets/img/discord-logo.svg)
+    ![Slack logo](./assets/img/slack-logo.png)
+  ]
+]
+]
+
+---
+count: false
+
+.left-column[
+## µ-historique
+## Évolution fulgurante
+## Plus que le frontend
+]
+
+.right-column[
+- Applications desktop avec Electron
+]
+
+.right-column-no-padding[
+- Applications mobiles avec React Native & Ionic
+
+.rn-img[
+  ![React Native logo](./assets/img/react-native-logo.png)
+
+  .logos[
+    ![Facebook logo](./assets/img/facebook-rn-logo.png)
+    ![Instagram logo](./assets/img/instagram-rn-logo.png)
+    ![Airbnb logo](./assets/img/airbnb-rn-logo.png)
+  ]
+]
+]
+
+---
+count: false
+
+.left-column[
+## µ-historique
+## Évolution fulgurante
+## Plus que le frontend
+]
+
+.right-column[
+- Applications desktop avec Electron
+]
+
+.right-column-no-padding[
+- Applications mobiles avec React Native & Ionic
+]
+
+.right-column-no-padding[
+- Code natif vers Webassembly
+
+.wasm-img[
+  ![Webassembly logo](./assets/img/web-assembly-logo.svg)
+]
 ]
 
 ---
