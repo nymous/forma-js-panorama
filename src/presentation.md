@@ -97,6 +97,9 @@ count: false
 .jquery-logo-img[![jQuery logo](./assets/img/jquery_logo.png)]
 ]
 
+???
+
+jQuery permet de "standardiser" les implémentations Javascript, qui étaient toutes différentes selon les navigateurs
 
 ---
 count: false
@@ -182,11 +185,114 @@ count: false
 
 Angular 2 en 2016, React en 2013, Vue en 2014
 
+---
+count: false
+
+.left-column[
+## µ-historique
+]
+
+.right-column[
+- 1995 : Création du Javascript par Brendan Eich, en 10 jours de travail
+]
+
+.right-column-no-padding[
+- Jusqu'en 1999 : Évolutions du standard ECMA-Script
+]
+
+.right-column-no-padding[
+- Point mort pendant 10 ans, ECMAScript 5 sort en 2009
+]
+
+.right-column-no-padding[
+- Développement de quelques interactions sur la page
+- Apparition de jQuery
+- AJAX, pages sans rechargement
+]
+
+.right-column-no-padding[
+- 2011 : Nouvelle croissance du JS, avec des frameworks SPA
+]
+
+.right-column-no-padding[
+- 2013 : Envolée fulgurante et durable du JS
+- 2015 : NodeJS 4
+- Explosion de l'écosystème
+]
+
+.right-column-no-padding[
+- ES2015, ES2016, ES2017+ standardisés
+]
+
+---
+
+.left-column[
+## µ-historique
+## Évolution fulgurante
+]
+
+--
+count: false
+
+.right-column[
+# Pourquoi ?
+]
+
+--
+count: false
+
+.right-column-no-padding[
+- Évolution des moteurs JS
+]
+
+--
+count: false
+
+.right-column-no-padding[
+- Naissance de NodeJS
+- Un seul langage client et serveur
+- Vivier de développeurs beaucoup plus important
+]
+
+--
+count: false
+
+.right-column-no-padding[
+- Reprise de l'évolution du langage avec ES6+
+]
+
+--
+count: false
+
+.right-column-no-padding[
+- Plateforme de partage de code : NPM
+]
+
+--
+count: false
+
+.right-column-no-padding[
+- Industrialisation du développement (tooling, frameworks, bonnes pratiques...)
+]
+
+--
+count: false
+
+.right-column-no-padding[
+- Effet de mode
+]
 
 ???
 
-Croissance phénoménale et fulgurante, l'écosystème s'est énormément complexifié (parfois en réinventant la roue), pour répondre à des problèmes beaucoup plus grands. Le JS n'est plus considéré comme un langage de seconde zone, et dispose de tout le tooling et de la qualité de code qu'on peut rechercher dans les "vrais" langages (Java par exemple).
+- Croissance phénoménale et fulgurante
+- Écosystème énormément complexifié (parfois en réinventant la roue), pour répondre à des problèmes beaucoup plus grands
+- Le JS n'est plus considéré comme un langage de seconde zone, et dispose de tout le tooling et de la qualité de code qu'on peut rechercher dans les "vrais" langages (Java par exemple).
 
+---
+
+.js-ecosystem-img[
+![JS Ecosystem](./assets/img/JS.png)
+]
 
 ---
 template: inverse
@@ -203,6 +309,7 @@ template: inverse
 
 .right-column[
 - Wikipédia [Javascript](https://en.wikipedia.org/wiki/JavaScript), [Brendan Eich](https://en.wikipedia.org/wiki/Brendan_Eich), [ECMAScript](https://en.wikipedia.org/wiki/ECMAScript), [jQuery](https://en.wikipedia.org/wiki/JQuery), [Backbone.js](https://en.wikipedia.org/wiki/Backbone.js), [Ember.js](https://en.wikipedia.org/wiki/Ember.js), [AngularJS](https://en.wikipedia.org/wiki/AngularJS), [React][React], [Node.js](https://en.wikipedia.org/wiki/Node.js), [Angular][Angular], [Vue.js](https://en.wikipedia.org/wiki/Vue.js)
+- https://github.com/kamranahmedse/developer-roadmap
 ]
 
 [React]: https://en.wikipedia.org/wiki/React_(JavaScript_library)
