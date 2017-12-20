@@ -329,6 +329,13 @@ count: false
 ]
 ]
 
+???
+
+On en a encore d'autres :
+
+- Les PWA
+- Les paradigmes de programmation
+
 ---
 template: inverse
 
