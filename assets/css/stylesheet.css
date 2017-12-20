@@ -109,7 +109,7 @@ img {
   width: auto;
 }
 
-.spa-logos-img p, .spa2-logos-img p {
+.spa-logos-img p, .spa2-logos-img p, .electron-img p, .rn-img p, .wasm-img p {
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -121,12 +121,24 @@ img {
 }
 
 .spa2-logos-img img {
-  height: 20vh;
+  height: 14vh;
   width: auto;
 }
 
 .js-ecosystem-img img {
   text-align: center;
-  height: 100vh;
+  height: 55vh;
   width: auto;
+}
+
+.electron-img img, .rn-img img, .wasm-img img {
+  width: 60%;
+}
+
+.electron-img .logos img{
+  width: 30%;
+}
+
+.rn-img .logos img {
+  width: 15%;
 }
