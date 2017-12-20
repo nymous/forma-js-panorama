@@ -240,6 +240,12 @@ count: false
 ]
 ]
 
+???
+
+- Croissance phénoménale et fulgurante
+- Écosystème énormément complexifié (parfois en réinventant la roue), pour répondre à des problèmes beaucoup plus grands
+- Le JS n'est plus considéré comme un langage de seconde zone, et dispose de tout le tooling et de la qualité de code qu'on peut rechercher dans les "vrais" langages (Java par exemple).
+
 ---
 
 .left-column[
