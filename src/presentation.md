@@ -235,63 +235,9 @@ count: false
 count: false
 
 .right-column[
-# Pourquoi ?
-]
-
---
-count: false
-
-.right-column-no-padding[
-- Évolution des moteurs JS
-]
-
---
-count: false
-
-.right-column-no-padding[
-- Naissance de NodeJS
-- Un seul langage client et serveur
-- Vivier de développeurs beaucoup plus important
-]
-
---
-count: false
-
-.right-column-no-padding[
-- Reprise de l'évolution du langage avec ES6+
-]
-
---
-count: false
-
-.right-column-no-padding[
-- Plateforme de partage de code : NPM
-]
-
---
-count: false
-
-.right-column-no-padding[
-- Industrialisation du développement (tooling, frameworks, bonnes pratiques...)
-]
-
---
-count: false
-
-.right-column-no-padding[
-- Effet de mode
-]
-
-???
-
-- Croissance phénoménale et fulgurante
-- Écosystème énormément complexifié (parfois en réinventant la roue), pour répondre à des problèmes beaucoup plus grands
-- Le JS n'est plus considéré comme un langage de seconde zone, et dispose de tout le tooling et de la qualité de code qu'on peut rechercher dans les "vrais" langages (Java par exemple).
-
----
-
 .js-ecosystem-img[
 ![JS Ecosystem](./assets/img/JS.png)
+]
 ]
 
 ---
