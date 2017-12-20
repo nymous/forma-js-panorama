@@ -295,6 +295,14 @@ count: false
 ]
 
 ---
+
+.left-column[
+## µ-historique
+## Évolution fulgurante
+## Le futur ?
+]
+
+---
 template: inverse
 
 # The end
@@ -309,6 +317,7 @@ template: inverse
 
 .right-column[
 - Wikipédia [Javascript](https://en.wikipedia.org/wiki/JavaScript), [Brendan Eich](https://en.wikipedia.org/wiki/Brendan_Eich), [ECMAScript](https://en.wikipedia.org/wiki/ECMAScript), [jQuery](https://en.wikipedia.org/wiki/JQuery), [Backbone.js](https://en.wikipedia.org/wiki/Backbone.js), [Ember.js](https://en.wikipedia.org/wiki/Ember.js), [AngularJS](https://en.wikipedia.org/wiki/AngularJS), [React][React], [Node.js](https://en.wikipedia.org/wiki/Node.js), [Angular][Angular], [Vue.js](https://en.wikipedia.org/wiki/Vue.js)
+
 - https://github.com/kamranahmedse/developer-roadmap
 ]
 
